@@ -1,0 +1,18 @@
+import 해야하는 library 목록
+math
+os
+hashlib
+urlretrieve
+zipfile
+gzip
+numpy
+shutil
+pillow
+tqdm
+tensorflow
+matplotlib
+warnings
+cv2
+mock
+deepcopy
+glob
